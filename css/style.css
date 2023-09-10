@@ -1,0 +1,362 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.image{
+	background: url('../images/bg-image.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.logo-img{
+	margin-top: 25px;
+	margin-left: 74px;
+}
+ul{
+	margin-left: auto;
+	margin-right: 100px;
+}
+.nav-btn{
+	margin-left: 20px;
+}
+.nature-para{
+	margin-top: 130px;
+}
+.nature-inner-para{
+	color: white;
+}
+.watch-btn{
+	color: white;
+}
+.plant-para{
+	margin-bottom: 80px;
+}
+.plant-heading{
+	margin-top: 70px;
+	margin-left: 70px;
+	color: #285A43;
+}
+.plant-inner-para{
+	margin-top: 70px;
+	margin-left: 78px;
+	/* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+	color: #323232;
+}
+.id-plants{
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.03);
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.02);
+	border-radius: 10px;
+}
+.id-plants h6{
+	color: #285A43;
+}
+.id-plants p{
+	/* font-family: Raleway; */
+}
+.ot-plants{
+	background: #337A5B;
+	color: white;
+	border-radius: 10px;
+}
+.ot-plants p{
+	/* font-family: Raleway; */
+}
+.plant-pot{
+	background: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.03);
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.02);
+	border-radius: 10px;
+}
+.plant-pot h6{
+	color: #285A43;
+}
+.plant-pot p{
+	/* font-family: Raleway; */
+}
+.offer-heading{
+	text-align: center;
+	color: #285A43;
+	margin-top: 90px;
+}
+.cactus-bg-col{
+	background: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.03);
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.02);
+	border-radius: 10px;
+}
+.img-border{
+	border-radius: 10px 10px 0px 0px;
+}
+.cactus-btn{
+	color: #337A5B;
+	background: #FFFFFF;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	border-radius: 3px;
+}
+.col-change{
+	color: #337A5B;
+}
+.txt-line{
+	text-decoration: line-through;
+}
+.bg-col-1{
+	background-color: #FCFCFC;
+}
+.bg-col-2{
+	background-color:  #F8F8F8;
+}
+.bg-col-3{
+	background-color:  #F8F8F8;
+}
+.bg-col-4{
+	background-color: #FCFCFC;
+}
+.img-col{
+	color: #285A43;
+}
+.common-product{
+	min-height: 356px;
+}
+.text-font{
+	/* font-family: 'Raleway'; */
+	font-style: normal;
+}
+.gallery-text-col{
+	color: #285A43;
+}
+.common-inner-gallery{
+	max-height: 301px;
+}
+.aboutUs-col{
+	color: #285A43;
+	margin-top: 60px;
+}
+.about-bg{
+	background-color:  #F8F8F8;
+	border-radius: 10px;
+	height: 100%;
+}
+.about-bg-1{
+	background-color:  #F8F8F8;
+	border-radius: 10px;
+	height: 100%;
+}
+.about-bg-2{
+	background-color:  #F8F8F8;
+	border-radius: 10px;
+	height: 100%;
+}
+.jessica-col{
+	position: relative;
+}
+.kate-col{
+	position: relative;
+}
+.grace-col{
+	position: relative;
+}
+.bg-img-jessica{
+	opacity: 0.1;
+	position: absolute;
+	bottom: 0px;
+	left: 120px;
+}
+.bg-img-kate{
+	opacity: 0.1;
+	position: absolute;
+	bottom: 0px;
+	left: 180px;
+}
+.bg-img-grace{
+	position: absolute;
+	bottom: 0px;
+	left: 170px;
+}
+.Face-img-1{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.Face-img-2{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.Face-img-3{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+.tree-bg-img{
+	background-image: url('../images/background-tree.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.para-text{
+	padding-top: 290px;
+	padding-left: 90px;
+}
+.input-list{
+	padding-top: 300px;
+}
+.input-style{
+	font-family: Raleway;
+	color: #FFFFFF;
+	border-radius: 5px;
+	border: 1px solid #FFFFFF;
+	background: rgba(217, 217, 217, 0.03);
+	backdrop-filter: blur(2.5px);
+	font-weight: 900;
+}
+.submit-btn{
+	padding-top: 305px;
+}
+.submit-btn-style{
+	font-family: Raleway;
+	background-color: #285A43;
+	color: #FFFFFF;
+	border-radius: 5px;
+	width: 90px;
+	height: 43px;
+	font-weight: 700;
+	border: transparent;
+}
+
+.blog-txt{
+	color: #285A43;
+	margin-top: 80px;
+}
+.blog-inner-txt{
+	font-family: Raleway;
+	color: #121212;
+}
+.blogs-family{
+	font-family: Raleway;
+}
+.blogs-img-line{
+	display: flex;
+}
+.blog-txt-right{
+	margin-left: auto;
+	color: #285A43;
+}
+.contact-bg{
+	background-color: #285A43;
+}
+.contact-head{
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 100px;
+}
+.contact-img-1{
+	opacity: 0.1;
+	margin-top: 100px;
+}
+.contact-img-2{
+	opacity: 0.1;
+	margin-top: 200px;
+}
+.contact-bg-col{
+	background-color:  #121212;
+	font-family: Raleway;
+}
+nav{
+	font-family: Raleway;
+}
+
+@media screen and (max-width: 600px){
+	#responsive-navbar{
+		display: none;
+	}
+	#responsive-logo{
+		margin: 0px;
+		padding: 0px;
+		background-color: black;
+		text-align: center;
+		padding-bottom: 35px;
+		width:100%;
+		box-shadow: 10px 0px 10px;
+	}
+	#responsive-logo-img:hover{
+		transform: scale(1.7);
+		transition: 2s;
+	}
+	.responsive-para-txt{
+		font-size: 13px;
+	}
+	#cactus-responsive-img{
+		margin-top: 40px;
+		padding: 0px;
+	}
+	#cactus-responsive-img-1{
+		margin-top: 40px;
+		padding: 0px;
+	}
+	#cactus-responsive-img-2{
+		margin-top: 40px;
+		padding: 0px;
+	}
+	#cactus-responsive-img-3{
+		margin-top: 40px;
+		padding: 0px;
+	}
+	#cactus-responsive-img-4{
+		margin-top: 40px;
+		padding: 0px;
+	}
+	#cactus-responsive-img-5{
+		margin-top: 40px;
+		padding: 0px;
+	}
+	#cactus-responsive-img-mtop{
+		padding: 0px;
+	}
+	#cactus-responsive-image{
+		padding: 0px;
+	}
+	.cactus-responsive-btn{
+		margin-left: 230px;
+	}
+	#cactus-responsive-btn{
+		margin-left: 200px;
+	}
+	#responsive-gallery{
+		padding: 0px;
+		margin-top: 10px;
+	}
+	#jessica-col-responsive{
+		padding: 0px;
+	}
+	#kate-col-responsive{
+		padding: 0px;
+		margin-top: 25px;
+	}
+	#grace-col-responsive{
+		padding: 0px;
+		margin-top: 25px;
+	}
+	#blog-responsive-img{
+		padding: 0px;
+	}
+	#blog-responsive-img-1{
+		padding: 0px;
+	}
+	#blog-responsive-img-2{
+		padding: 0px;
+	}
+	.responsive-arrow{
+		margin-right: 180px;
+	}
+	.contact-head{
+		font-size: 40px;
+		padding-bottom: 30px;
+	}
+	#responsive-nav {
+		font-size: 13px;
+		margin-right: auto;
+		/*padding-left: 15px;*/
+		font-weight: 20px;
+		font-family: Lato;
+		padding-top: 30px
+	}
+}
